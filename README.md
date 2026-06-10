@@ -1,11 +1,12 @@
-Hi, I'm Farhan Ali 👋
-AI Engineer | Computer Vision Engineer | Automation Developer
-🚀 Building AI-powered solutions using Computer Vision, Generative AI, Agentic Workflows, and Automation Systems
-🧠 Experienced in YOLO, CNNs, Object Detection, OCR, RAG Systems, LLM Integration, and Multi-Agent AI Applications
-💻 Developing intelligent applications with Python, Streamlit, OpenCV, TensorFlow, PyTorch, Vitis AI, and Cloud APIs
-🔍 Interested in Computer Vision, Generative AI, Industrial AI, Autonomous Systems, and Business Process Automation
-🤝 Open to collaborating on AI, Computer Vision, GenAI, Automation, and Data-Driven Product Development projects
-📫 Reach me for AI consulting, custom AI solutions, and technical collaborations
+<h1 align="center">Hi 👋, I'm Farhan Ali</h1>
+<h3 align="center">AI Engineer | Computer Vision Engineer | Automation Developer</h3>
+
+* 🚀 Building AI-powered solutions using Computer Vision, Generative AI, and Intelligent Automation
+* 🧠 Experienced in YOLO, OCR, RAG Systems, LLM Integration, and Multi-Agent AI Applications
+* 💻 Working with Python, OpenCV, TensorFlow, PyTorch, Streamlit, and Vitis AI
+* 🤝 Open to collaborations in AI, Computer Vision, GenAI, and Automation Projects
+* 📫 Available for AI consulting, custom AI solutions, and technical collaborations
+
 
 <!---
 farhankhoso/farhankhoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
